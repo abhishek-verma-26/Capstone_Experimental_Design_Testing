@@ -1,7 +1,7 @@
 # Capstone_Experimental_Design_Testing
 Experimental A/B testing and Exploratory Data Analysis on Power Utility Operation Data
 
-The dataset in thsi project is from the power utility data collection website https://www.eia.gov/electricity/data/eia861/. I specifically use the annual summary operational data for year 2012 and 2018 of power utilities across United States.
+The dataset used here from the power utility data collection website https://www.eia.gov/electricity/data/eia861/. I specifically use the annual summary operational data for year 2012 and 2018 of power utilities across United States.
 
 I propose the following hypothesis testing based on the data:
 
